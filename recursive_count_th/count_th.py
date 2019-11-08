@@ -12,4 +12,4 @@ def count_th(word):
     else: 
         split_word = word[1:]
         return count_th(split_word)
-
+        
